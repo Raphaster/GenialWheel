@@ -6,7 +6,7 @@
             "type": "firefox",
             "request": "launch",
             "reAttach": true,
-            "file": "${workspaceFolder}/RodaGenial.html"
+            "file": "${workspaceFolder}/WebVersion/RodaGenial.html"
         }
     ]
 }
